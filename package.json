@@ -7,10 +7,12 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "cors": "^2.8.5",
     "basic-ftp": "^4.6.6",
-    "body-parser": "^1.19.0"
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   },
   "engines": {
     "node": "22.x"

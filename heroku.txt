@@ -1,4 +1,0 @@
-curl -X POST https://code-save-82cfzy1f4-michel-benamours-projects.vercel.app/save -H "Content-Type: application/json" -d '{"result": "Test de l\'enregistrement"}'
-
-
-git remote add heroku git@heroku.com:code-save-benamour.git
